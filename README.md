@@ -60,4 +60,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotBloby&show_icons=true&locale=en" alt="BlobyCZ" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlobyCZ&" alt="BlobyCZ" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NotBloby&" alt="BlobyCZ" /></p>
