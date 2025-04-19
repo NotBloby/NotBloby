@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm BlobyCZ</h1>
-<h3 align="center">JavaScript | Python Lover </h3>
+<h3 align="center">JavaScript ❤️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NotBloby&label=Profile%20views&color=0e75b6&style=flat" alt="BlobyCZ" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NotBloby" alt="BlobyCZ" /></a> </p>
 
 - 🔭 I’m currently working on **Sajmon bot**
-
-- 🌱 I’m currently learning **C#, JavaScript, TailwindCSS, and server hosting**
-
-- 🎮 I play **VALORANT, Overwatch 2, Fortnite, and Rogue Company**
-
-- 🎵 I listen to **PO$$E, $uicideboy$, Black Sabbath, Linkin Park, and Rammstein**
 
 - 📫 How to reach me **Discord: BlobyCZ#0**
 
@@ -53,9 +47,6 @@
   <li>💡 Experienced in <strong>JavaScript, HTML, TailwindCSS, C#</strong></li>
   <li>💡 Working with <strong>Node.js, npm, FiveM development</strong></li>
   <li>💡 Video editing with <strong>Adobe Premiere Pro</strong>, using custom pack</li>
-  <li>💡 Hosting multiple services on a private VPS</li>
-</ul>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotBloby&show_icons=true&locale=en&layout=compact" alt="BlobyCZ" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotBloby&show_icons=true&locale=en" alt="BlobyCZ" /></p>
